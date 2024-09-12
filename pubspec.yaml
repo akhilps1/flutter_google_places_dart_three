@@ -24,8 +24,8 @@ dev_dependencies:
 
 flutter:
   assets:
-    - packages/flutter_google_places/assets/google_black.png
-    - packages/flutter_google_places/assets/google_white.png
+    - packages/flutter_google_places_dart_three/assets/google_black.png
+    - packages/flutter_google_places_dart_three/assets/google_white.png
 
 dependency_overrides:
   meta: ^1.15.0
