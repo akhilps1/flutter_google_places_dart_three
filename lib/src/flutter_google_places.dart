@@ -356,9 +356,9 @@ class AppBarPlacesAutoCompleteTextFieldState
 
 class PoweredByGoogleImage extends StatelessWidget {
   static const _poweredByGoogleWhite =
-      "packages/flutter_google_places/assets/google_white.png";
+      "packages/flutter_google_places_dart_three/assets/google_white.png";
   static const _poweredByGoogleBlack =
-      "packages/flutter_google_places/assets/google_black.png";
+      "packages/flutter_google_places_dart_three/assets/google_black.png";
 
   const PoweredByGoogleImage({Key? key}) : super(key: key);
 
